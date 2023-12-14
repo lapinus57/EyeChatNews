@@ -1,5 +1,18 @@
 [
-  "Lentilles",
-  "Myopie",
-  "Cabinet"
+    {
+        "CategoryID": 1,
+        "CategoryName": "Lentilles",
+        "CategoryDescription": "Description de la catégorie Lentilles"
+    },
+    {
+        "CategoryID": 2,
+        "CategoryName": "Myopie",
+        "CategoryDescription": "Description de l'autre catégorie"
+    },
+   {
+        "CategoryID": 3,
+        "CategoryName": "Cabinet",
+        "CategoryDescription": "Description de l'autre catégorie"
+    }
+    // Plus d'éléments...
 ]
