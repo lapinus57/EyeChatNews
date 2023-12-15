@@ -13,6 +13,16 @@
         "CategoryID": 3,
         "CategoryName": "Cabinet",
         "CategoryDescription": "Description de l'autre catégorie"
+    },
+    {
+        "CategoryID": 4,
+        "CategoryName": "test2",
+        "CategoryDescription": "Description de l'autre catégorie"
+    },
+    {
+        "CategoryID": 5,
+        "CategoryName": "test22",
+        "CategoryDescription": "Description de l'autre catégorie"
     }
     // Plus d'éléments...
 ]
